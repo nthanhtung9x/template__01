@@ -270,6 +270,7 @@
     box-shadow: 0 0 0 1px grey;
     margin:12px 0;
     outline: none;
+    border:1px solid;
 }
 
 .form__btn {
